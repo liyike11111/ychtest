@@ -1,0 +1,3 @@
+pubilc statci viod Tets{
+    System.out.printly("123");
+}
